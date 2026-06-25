@@ -43,10 +43,6 @@ GOST52070_Serial/
 
 make
 
-Очистка объектных файлов:
-
-make clean
-
 ## Запуск
 
 ./GOST52070_Serial.exe COM3 01 1
